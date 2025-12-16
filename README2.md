@@ -103,7 +103,7 @@ Designing professional dashboards
 🔗 Project Links
 
 GitHub Repository:
-https://github.com/narendramewada-dot/sales-analysis-project
+https://github.com/narendramewada-dot/sales-analysis-projec
 
 LinkedIn:
 https://www.linkedin.com/in/narendra-singh-rajput-aba180364
