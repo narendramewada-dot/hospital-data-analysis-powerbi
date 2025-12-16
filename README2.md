@@ -100,12 +100,6 @@ Creating calculated columns & KPIs in Power BI
 
 Designing professional dashboards
 
-✨ Image
-"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2025-12-16 114842.png"
-
-
-
-
 🔗 Project Links
 
 GitHub Repository:
@@ -120,3 +114,6 @@ Narendra Singh Mewada
 📍 Lalghati, Bhopal (M.P.)
 📧 narendramewada1212@gmail.com# hospital-data-analysis-powerbi
 Hospital data analysis using Python, MySQL and Power BI
+
+<img width="1920" height="881" alt="Screenshot 2025-12-16 114842" src="https://github.com/user-attachments/assets/460608bc-da5e-4e2f-ad4a-728e03dc3d16" />
+
