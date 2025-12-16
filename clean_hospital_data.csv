@@ -1,0 +1,6 @@
+vital_id,patient_id,date_time,bp_sys,bp_dia,heart_rate,spo2,temperature,name,age,gender,admission_date,discharge_date,ward,total_bill,status
+1,1,2025-01-11 10:00:00,160,100,120,88,102.5,Ramesh,65,Male,2025-01-05,,ICU,20500.0,Critical
+2,1,2025-01-11 12:00:00,158,98,118,90,101.3,Ramesh,65,Male,2025-01-05,,ICU,20500.0,Critical
+3,2,2025-01-11 10:00:00,130,85,95,96,98.4,Sita,58,Female,2025-01-06,,Ward-3,13000.0,Normal
+4,3,2025-01-11 11:00:00,170,110,130,85,103.0,Aman,40,Male,2025-01-07,,ICU,22000.0,Critical
+5,4,2025-01-11 09:00:00,120,80,88,98,97.4,Sahil,29,Male,2025-01-08,,Ward-1,,Normal
