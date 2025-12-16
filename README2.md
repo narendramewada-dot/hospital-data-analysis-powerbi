@@ -100,6 +100,12 @@ Creating calculated columns & KPIs in Power BI
 
 Designing professional dashboards
 
+✨ Image
+"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2025-12-16 114842.png"
+
+
+
+
 🔗 Project Links
 
 GitHub Repository:
